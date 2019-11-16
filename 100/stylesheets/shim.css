@@ -1,0 +1,5 @@
+body,
+#root,
+#root > section > .pane-col
+{ width: 100%; height: 100%; }
+#root > section > .pane-col > ul { height: 100%; }
