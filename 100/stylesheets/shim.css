@@ -4,4 +4,4 @@ body,
 { width: 100%; min-height: 100%; }
 #root > section > .pane-col { overflow-y: scroll; }
 #root > section > .pane-col > ul { height: 100%; }
-#lightbox > ul > li.c-white-bg { overflow: hidden; }
+#lightbox > ul > li.c-white-bg { overflow: hidden; height: 90% !important; }
